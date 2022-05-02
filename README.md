@@ -12,4 +12,8 @@
 #### - FORMULARIOS EN HTML
   En este capítulo aprendí la estructura de un formulario, y los distintos elementos que puede tener(label, input, textarea...); y los tipos de input que se pueden añadir.
   Hice una práctica de un formulario con una tabla y una lista; en la que se utilizaban distintos tipos de input, un botón submit, checkboxes...
-  
+#### - CSS
+  En este curso aprendí la evolución de CSS, y sus distinas versiones hasta llegar a CSS3.
+  Aprendí a añadir una hoja de estilo CSS a un documento HTML; así como los distintos selectores y pseudoselectores para poder cambiar los valores del HTML desde la hoja de estilos.
+  Hice una práctica de selectores y otra de pseudoselectores; para aprender a manejarlos y saber en que situación combiene utilizar cada uno de ellos.
+  Aprendí que cada navegador tiene sus propios estilos por defecto si tu no le agregas unos; y que cada navegador tiene sus propios prefijos.
