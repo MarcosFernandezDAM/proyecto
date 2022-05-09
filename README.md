@@ -17,3 +17,11 @@
   Aprendí a añadir una hoja de estilo CSS a un documento HTML; así como los distintos selectores y pseudoselectores para poder cambiar los valores del HTML desde la hoja de estilos.
   Hice una práctica de selectores y otra de pseudoselectores; para aprender a manejarlos y saber en que situación combiene utilizar cada uno de ellos.
   Aprendí que cada navegador tiene sus propios estilos por defecto si tu no le agregas unos; y que cada navegador tiene sus propios prefijos.
+## CURSO 2. MAQUETACIÓN WEB CON CSS
+#### - INTRODUCCIÓN
+  En este capítulo aprendí la definición de maquetación web y su utilidad
+#### - MAQUETACIÓN TRADICIONAL CON CSS
+  En este capítulo aprendí buenas prácticas a la hora de maquetar, propiedades como Position, o Display; los distintos tipos de Layouts y como centrarlos; los elementos flotantes; como usar columnas y alinear sus contenidos; y el box Sizing.
+  Hice una práctica para comprender y saber utilizar la propiedad Position, colocando elementos en distintas posiciones.
+  Hice una práctica para aprender a usar los elementos flotantes y como afectan a la página.
+  Hice un proyecto de ejemplo de maquetación de una página web
