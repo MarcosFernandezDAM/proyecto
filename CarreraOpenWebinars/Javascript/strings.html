@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Strings</title>
+</head>
+
+<body>
+    <p class="newsletter-text"></p>
+    <script type="text/javascript">
+        /*
+                     * Incluir en el texto de la próxima newsletter
+                     * unas variables dinámicas que te vienen del usuario.
+                     * Nombre: Marcos
+                     * Interés: Link awakening
+                     * Descuento: 20% en tu próxima entrada
+                     * Texto: Hola USUARIO,
+                        Como regalo de bienvenida al Club de gamers,
+                        queremos ofrecer un descuento del DESCUENTO
+                        en el próximo lanzamiento de tu interés JUEGO
+                        Esperamos lo disfrutes,
+                        Un saludo,
+                     */
+        const NAME = 'Marcos'
+        const GAME = 'Link awakening'
+        const DISCOUNT = 20
+        const NEWSLETTER = `Hola ${NAME},
+            Como regalo de bienvenida al Club de gamers,
+            queremos ofrecer un descuento del ${DISCOUNT}
+            en el próximo lanzamiento de tu interés ${GAME}
+            Esperamos lo disfrutes,
+            Un saludo,`
+        document.querySelector('.newsletter-text').innerHTML = NEWSLETTER
+    </script>
+</body>
+</html

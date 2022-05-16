@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Numeros</title>
+</head>
+
+<body>
+    <script type="text/javascript">
+        //Cena de 102€ a dividir entre 6 personas
+        const TOTAL = 102;
+        const PEOPLE = 6;
+        const TOTAL_BY_PERSON = TOTAL / PEOPLE;
+        console.log("Cada persona paga: " + TOTAL_BY_PERSON + "€");
+
+        //Móvil (300€) + Cascos (30€) + Funda (10€)
+        //Descuento 10%
+        const PRICE_MOBILE = 300;
+        const PRICE_HEADPHONES = 30;
+        const PRICE_CASE = 10;
+        const DISCOUNT = 10;
+        const TOTAL2 = PRICE_MOBILE + PRICE_HEADPHONES + PRICE_CASE;
+        const DESCUENTO = TOTAL2 * DISCOUNT / 100;
+        const SUBTOTAL = TOTAL2 - DESCUENTO
+        console.log("El subtotal es: " + SUBTOTAL + "€");
+    </script>
+</body>
+
+</html>
