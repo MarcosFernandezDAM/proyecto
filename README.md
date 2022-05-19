@@ -72,3 +72,50 @@
   En este capítulo aprendí como usar funciones; como llamarlas; y las distintas formas de representarlas.
 #### - APLICANDO LÓGICA CON JAVASCRIPT
   En este capítulo aprendí como realizar operaciones lógicas con JavaScript
+## CURSO 8. CURSO DE SASS
+#### - INTRODUCCIÓN
+
+#### - SASS: UN PREPROCESADOR CSS
+  En este capítulo aprendí a instalar Sass; las ventajas y desventajas que tiene; sus elementos básicos; sus funciones y estructuras de control; la forma de compilarlo; los mixins, reglas y directivas; y el uso de SassDoc para documentar Sasss.
+#### - GULP
+  En este capítulo aprendí a instalar Gulp y sus plugins; las tareas Gulp; y el Workflow con Gulp
+#### - CREACIÓN DE MI PROPIO TEMA DE BOOTSTRAP USANDO SASS
+  En este capítulo aprendí a descargar BootStrap, como crear un tema propio, y generarlo usando Sass y Gulp
+#### - MI PROPIO FRAMEWORK
+  En este capítulo aprendo a crear un framework y usarlo
+## - CURSO 9. CURSO DE JQUERY
+#### - INTRODUCCIÓN
+  En este capítulo aprendí qué es jQuery y para que se usa; además de la definición de DOM
+#### - INSTALACIÓN DE JQUERY
+  En este capítulo aprendí a instalar jQuery
+#### - SELECTORES DE JQUERY
+  En este capítulo repasé los selectores de CSS; y aprendí los selectores propios que hay en jQuery; así como el uso de Each y $(this).
+  También hice un ejercicio para entender el uso de los selectores de jQuery y Each y $(this)
+#### - CSS: ATRIBUTOS Y ESTILOS
+  En este capítulo aprendí a añadir y quitar estilos; a modificar los valores y los contenidos.
+  También hice un ejercicio para aplicar el cambio de estilo, atributos y contenido
+#### - EVENTOS DE JQUERY
+  En este capítulo aprendí a capturar los eventos de teclado y ratón; así como crear y lanzar eventos creados por mí.
+  Hice un ejercicio para practicar los eventos de teclado y ratón; y otro para asignar los eventos.
+#### - MOVIÉNDONOS POR EL ÁRBOL
+  En este capítulo aprendí el uso del árbol DOM, así como la forma de moverme por este; a través de los padres, hijos, hermanos, filtros... También aprendí a añadir o eliminar elementos del árbol.
+  Hice un ejercicio para aprender a moverme por el árbol; y otro para practicar la inserción, el borrado y el reemplazo de los elementos del árbol.
+#### - EFECTOS Y ANIMACIONES
+  En este capítulo aprendí a usar efectos y animaciones para mi página HTML.
+  Hice un ejercicio para practicar su uso
+#### - AJAX FÁCIL USANDO JQUERY
+  En este capítulo aprendí qué es Ajax, para qué se utiliza; y cómo se utiliza.
+  Hice una práctica para aprender a hacer peticiones Ajax
+#### - JQUERY UI
+  En este capítulo aprendí qué es jQuery UI; sus componentes, sus efectos y sus interacciones.
+## - CURSO 10. CURSO DE GIT
+#### - INTRODUCCIÓN
+  En este capítulo aprendí qué es git, y sus conceptos básicos
+#### - HERRAMIENTAS DE TRABAJO
+  En este capítulo aprendí a instalar y configurar git y el entorno de trabajo, además de qué es GitLab.
+#### - ORGANIZACIÓN DEL CÓDIGO FUENTE Y OTROS ELEMENTOS DEL PROYECTO
+  En este capítulo aprendí a crear un repositorio con git; aprobar los cambios realizados; trabajar en remoto; deshacer los cambios; y usar merge para arreglar los posibles conflictos de unión que puedan surgir
+#### - FLUJOS DE TRABAJO
+  En este capítulo aprendí la forma de encontrar errores; usar git blame, rebase y stash; usar etiquetas; y a moverme entre los estados del repositorio.
+#### - REPOSITORIOS CORPORATIVOS
+  En este capítulo aprendí las ventajas de GitHub y GitLab (servicio en la nube)
